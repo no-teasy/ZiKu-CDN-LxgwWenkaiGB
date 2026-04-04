@@ -1,15 +1,17 @@
-Original license: https://github.com/lxgw/LxgwWenkaiGB/blob/main/LICENSE
+Original license: https://github.com/lxgw/LxgwWenkaiGB/blob/main/OFL.txt
+Updated time: 2026/4/3
 
-
-
-Copyright (c) 2026, no-teasy (https://github.com/no-teasy)
+Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenkaiGB)
+Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://scripts.sil.org/OFL
+https://openfontlicense.org
 
+
+-----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-====================================================
+-----------------------------------------------------------
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
@@ -49,14 +51,14 @@ writer or other person who contributed to the Font Software.
 PERMISSION & CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
-distribute, and sell modified and unmodified copies of the Font Software,
-subject to the following conditions:
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
 
 1) Neither the Font Software nor any of its individual components,
 in Original or Modified Versions, may be sold by itself.
 
 2) Original or Modified Versions of the Font Software may be bundled,
-distributed and/or sold with any software, provided that each copy
+redistributed and/or sold with any software, provided that each copy
 contains the above copyright notice and this license. These can be
 included either as stand-alone text files, human-readable headers or
 in the appropriate machine-readable metadata fields within text or
